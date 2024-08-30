@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\DBMS\\WinformProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3939F36-A1FB-4693-9427-84B7CD4EAF40}|WinformProject\\WinformProject.csproj|d:\\desktop\\dbms\\winformproject\\winformproject\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3939F36-A1FB-4693-9427-84B7CD4EAF40}|WinformProject\\WinformProject.csproj|solutionrelative:winformproject\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3939F36-A1FB-4693-9427-84B7CD4EAF40}|WinformProject\\WinformProject.csproj|D:\\Desktop\\DBMS\\WinformProject\\winformproject\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3939F36-A1FB-4693-9427-84B7CD4EAF40}|WinformProject\\WinformProject.csproj|solutionrelative:winformproject\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\DBMS\\WinformProject\\WinformProject\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "WinformProject\\Login.xaml.cs",
+              "ToolTip": "D:\\Desktop\\DBMS\\WinformProject\\WinformProject\\Login.xaml.cs",
+              "RelativeToolTip": "WinformProject\\Login.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:57:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\Desktop\\DBMS\\WinformProject\\WinformProject\\Login.xaml",
+              "RelativeDocumentMoniker": "WinformProject\\Login.xaml",
+              "ToolTip": "D:\\Desktop\\DBMS\\WinformProject\\WinformProject\\Login.xaml",
+              "RelativeToolTip": "WinformProject\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T13:57:43.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

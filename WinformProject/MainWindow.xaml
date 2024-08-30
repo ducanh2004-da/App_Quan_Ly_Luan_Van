@@ -1,0 +1,35 @@
+﻿<Window x:Class="WinformProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WinformProject"
+        xmlns:ucDesign="clr-namespace:WinformProject.View.Design"
+        xmlns:ucPage="clr-namespace:WinformProject.View.Page"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="850"
+        Background="LightSkyBlue" 
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" MinWidth="100"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Grid.Column="0" Fill="LightBlue"/>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="auto" MinHeight="50"/>
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Grid x:Name="btnBar" Grid.Row="1">
+                
+            </Grid>
+            <!--<ucDesign:StudentButton x:Name="btnBarStudent" Grid.Row="1" />-->
+        </Grid>
+        <ucPage:Home Grid.Column="1" x:Name="pageHome" />
+        <Canvas Grid.Column="1" Name="canvas" Background="Transparent"/>
+    </Grid>
+</Window>

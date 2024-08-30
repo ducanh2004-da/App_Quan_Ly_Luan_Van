@@ -1,0 +1,116 @@
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\WinformProject.exe
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\WinformProject.deps.json
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\WinformProject.runtimeconfig.json
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\WinformProject.dll
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\WinformProject.pdb
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\App.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject_MarkupCompile.cache
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject_MarkupCompile.lref
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject.g.resources
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject.AssemblyInfoInputs.cache
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject.AssemblyInfo.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject.csproj.CoreCompileInputs.cache
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject.dll
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\refint\WinformProject.dll
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject.pdb
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject.genruntimeconfig.cache
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\ref\WinformProject.dll
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\WinformProject.dll.config
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\DBMS\WinformProject\WinformProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformProject.csproj.AssemblyReference.cache
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\WinformP.496A121C.Up2Date
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Design\CustomText.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Design\StudentButton.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Design\CustomText.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Design\StudentButton.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\BaoCao.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\ThongTin.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\BaoCao.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\ThongTin.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\DKDT.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\Home.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\DKDT.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\Home.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\Login.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\Login.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Design\TeacherButton.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Design\TeacherButton.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Design\DKDTBar.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\DSDT.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\XemBaoCao.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Design\DKDTBar.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\DSDT.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Page\XemBaoCao.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Design\SuaDTButton.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\Design\SuaDTButton.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\SmallWindow\DKDT1.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\SmallWindow\DKDT2.g.cs
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\SmallWindow\DKDT1.baml
+D:\Desktop\DBMS\WinformProject\WinformProject\obj\Debug\net6.0-windows\View\SmallWindow\DKDT2.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject.dll
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\refint\WinformProject.dll
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject.pdb
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\WinformProject.exe
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\WinformProject.dll.config
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\WinformProject.deps.json
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\WinformProject.runtimeconfig.json
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\WinformProject.dll
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\WinformProject.pdb
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject.csproj.AssemblyReference.cache
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\Login.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Design\CustomText.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Design\DKDTBar.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Design\StudentButton.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Design\SuaDTButton.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Design\TeacherButton.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\BaoCao.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\DKDT.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\DSDT.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\Home.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\ThongTin.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\XemBaoCao.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\SmallWindow\DKDT1.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\SmallWindow\DKDT2.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\App.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject_MarkupCompile.cache
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject_MarkupCompile.lref
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\Login.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\MainWindow.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Design\CustomText.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Design\DKDTBar.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Design\StudentButton.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Design\SuaDTButton.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Design\TeacherButton.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\BaoCao.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\DKDT.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\DSDT.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\Home.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\ThongTin.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\Page\XemBaoCao.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\SmallWindow\DKDT1.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\View\SmallWindow\DKDT2.baml
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject.g.resources
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject.AssemblyInfoInputs.cache
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject.AssemblyInfo.cs
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject.csproj.CoreCompileInputs.cache
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject.csproj.CopyComplete
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\WinformProject.genruntimeconfig.cache
+D:\work\WinForm\Final_Project_WinForm-master (1)\Final_Project_WinForm-master\WinformProject\obj\Debug\net6.0-windows\ref\WinformProject.dll

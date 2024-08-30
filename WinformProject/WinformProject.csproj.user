@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Design\CustomText.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Design\DKDTBar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Design\StudentButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Design\SuaDTButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Design\TeacherButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Page\BaoCao.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Page\DKDT.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Page\DSDT.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Page\Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Page\ThongTin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Page\XemBaoCao.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SmallWindow\DKDT1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SmallWindow\DKDT2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Design\CustomText.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Design\DKDTBar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Design\StudentButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Design\SuaDTButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Design\TeacherButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Page\BaoCao.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Page\DKDT.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Page\DSDT.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Page\Home.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Page\ThongTin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Page\XemBaoCao.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SmallWindow\DKDT1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SmallWindow\DKDT2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

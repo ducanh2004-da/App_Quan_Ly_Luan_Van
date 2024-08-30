@@ -1,0 +1,31 @@
+﻿<Window x:Class="WinformProject.View.SmallWindow.DKDT2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WinformProject.View.SmallWindow"
+        xmlns:ucDesign="clr-namespace:WinformProject.View.Design"
+        mc:Ignorable="d"
+        Title="DKDT2" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Background="LightYellow">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="0.1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.125*"/>
+                <RowDefinition Height="0.125*"/>
+                <RowDefinition Height="0.25*"/>
+                <RowDefinition Height="0.25*"/>
+            </Grid.RowDefinitions>
+            <ucDesign:CustomText Text_ThongTin="MSSV" Width="300" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <ucDesign:CustomText Text_ThongTin="Mã Đề Tài" Width="300" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <ucDesign:CustomText Text_ThongTin="Ly Do Chon" Width="450" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <Button Grid.Row="3" x:Name="btnDangKy" Click="btnDangKy_Click" Width="100" Height="50" Content="Đăng ký" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</Window>

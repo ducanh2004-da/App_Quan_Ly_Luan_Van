@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="WinformProject.View.Design.CustomText"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WinformProject.View.Design"
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="300"
+             Background="LightYellow">
+            
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition/>
+            <RowDefinition Height="5"/>
+        </Grid.RowDefinitions>
+        
+        <TextBox Grid.Row="2" Height="30" Background="LightBlue" Panel.ZIndex="2" FontSize="20" VerticalAlignment="Top"/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="auto" MinWidth="50"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <Rectangle Grid.Column="1" Fill="LightBlue" Height="10" VerticalAlignment="Bottom"/>
+            <TextBlock Grid.Column="1" x:Name="Tb_ThongTin" Height="10" Width="auto" Text="{Binding text_ThongTin}" FontSize="7" Panel.ZIndex="3" Background="LightBlue" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+        </Grid>
+    </Grid>
+</UserControl>
